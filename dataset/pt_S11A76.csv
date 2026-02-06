@@ -1,0 +1,22 @@
+Timestamp,ObjectName,ObjectState,Label,Aux Message,AOI_Origin,AOI_Width,AOI_Height,EyeTracker-x,EyeTracker-y,obj_x,obj_y
+1741343544162,,,,Game Starts,"(0.0, 0.0)",0,0,0.0,0.0,0.0,0.0
+1741343556580,,,,Init Trial,"(0.0, 0.0)",0,0,374.6,865.7,0.0,0.0
+1741343556581,Mushroom,Appear,Target,,"(1286.9, 206.6)",358,311,374.6,865.7,1267.4,194.3
+1741343563093,,,,Init Trial,"(0.0, 0.0)",0,0,791.8,299.7,0.0,0.0
+1741343563093,PesticideMushroom,Appear,Distractor,,"(1255.5, 224.8)",276,261,791.8,299.7,1262.9,135.8
+1741343563744,PesticideMushroom,Disappear,Distractor,,"(1255.5, 224.8)",276,261,1241.6,180.4,1262.9,135.8
+1741343564261,,,,End Trial,"(0.0, 0.0)",0,0,1235.5,128.1,0.0,0.0
+1741343564261,Answer,Correct,Distractor not clicked,,"(0.0, 0.0)",0,0,1235.5,128.1,0.0,0.0
+1741343570260,PesticideMushroom,Disappear,Distractor,,"(1255.5, 224.8)",276,261,1282.5,158.5,1262.9,135.8
+1741343570779,,,,End Trial,"(0.0, 0.0)",0,0,1184.8,179.9,0.0,0.0
+1741343570780,Answer,Correct,Distractor not clicked,,"(0.0, 0.0)",0,0,1184.8,179.9,0.0,0.0
+1741343574595,Mushroom,Disappear,Distractor,,"(1240.5, 223.7)",491,364,1117.8,178.5,1266.9,123.3
+1741343596362,Mushroom,Disappear,Target,,"(664.6, 208.5)",265,304,483.2,79.3,651.4,196.4
+1741343633381,Mushroom,Disappear,Distractor,,"(1240.5, 223.7)",491,364,1256.1,262.3,1266.9,123.3
+1741343637729,PoisonousMushroom,Disappear,Distractor,,"(1251.3, 224.3)",369,304,1163.9,217.5,1267.3,189.5
+1741343637893,Mouse Click,Incorrect,Distractor clicked,,"(906.0, 161.0)",0,0,1263.3,212.8,906.0,161.0
+1741343638245,,,,End Trial,"(0.0, 0.0)",0,0,1227.7,204.6,0.0,0.0
+1741343643611,,,,Init Trial,"(0.0, 0.0)",0,0,1068.3,265.6,0.0,0.0
+1741343643612,Mushroom,Appear,Target,,"(664.6, 208.5)",265,304,1068.3,265.6,651.4,196.4
+1741343645811,,,,Init Trial,"(0.0, 0.0)",0,0,977.1,37.3,0.0,0.0
+1741343645812,PoisonousMushroom,Appear,Distractor,,"(654.8, 225.8)",271,297,977.1,37.3,651.5,191.7
