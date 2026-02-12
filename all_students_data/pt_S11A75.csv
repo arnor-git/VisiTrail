@@ -1,0 +1,16 @@
+Timestamp,ObjectName,ObjectState,Label,Aux Message,AOI_Origin,AOI_Width,AOI_Height,EyeTracker-x,EyeTracker-y,obj_x,obj_y
+1741343285762,,,,Game Starts,"(0.0, 0.0)",0,0,0.0,0.0,0.0,0.0
+1741343291211,FirstButterfly,Disappear,Distractor,,"(647.0, 196.2)",393,392,555.3,154.3,651.8,138.7
+1741343293944,Mushroom,Disappear,Target,,"(664.6, 208.5)",265,304,593.2,145.3,651.4,196.4
+1741343306878,,,,Init Trial,"(0.0, 0.0)",0,0,753.8,383.1,0.0,0.0
+1741343306879,Stone,Appear,Distractor,,"(603.7, 171.1)",385,229,753.8,383.1,644.0,159.2
+1741343307427,Mouse Click,Incorrect,Distractor clicked,,"(974.0, 154.0)",0,0,529.5,193.1,974.0,154.0
+1741343307579,Stone,Disappear,Distractor,,"(603.7, 171.1)",385,229,553.8,186.5,644.0,159.2
+1741343315043,,,,Init Trial,"(0.0, 0.0)",0,0,611.9,221.0,0.0,0.0
+1741343315044,Mushroom,Appear,Target,,"(664.6, 208.5)",265,304,611.9,221.0,651.4,196.4
+1741343338627,,,,End Trial,"(0.0, 0.0)",0,0,583.1,42.5,0.0,0.0
+1741343370312,SecondButterfly,Disappear,Distractor,,"(654.5, 191.1)",238,278,907.4,-16.3,650.0,143.6
+1741343402344,,,,Init Trial,"(0.0, 0.0)",0,0,943.8,1065.5,0.0,0.0
+1741343402345,SecondButterfly,Appear,Distractor,,"(654.5, 191.1)",238,278,943.8,1065.5,650.0,143.6
+1741343403045,SecondButterfly,Disappear,Distractor,,"(654.5, 191.1)",238,278,563.7,197.1,650.0,143.6
+1741343408495,Stone,Disappear,Distractor,,"(603.7, 171.1)",385,229,654.4,228.9,644.0,159.2

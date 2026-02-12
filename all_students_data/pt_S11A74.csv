@@ -1,0 +1,14 @@
+Timestamp,ObjectName,ObjectState,Label,Aux Message,AOI_Origin,AOI_Width,AOI_Height,EyeTracker-x,EyeTracker-y,obj_x,obj_y
+1741342999560,,,,Init Trial,"(0.0, 0.0)",0,0,1438.4,588.6,0.0,0.0
+1741342999560,BlueFlowers,Appear,Distractor,,"(678.2, 245.9)",388,406,1438.4,588.6,651.9,133.4
+1741343000310,BlueFlowers,Disappear,Distractor,,"(678.2, 245.9)",388,406,314.7,164.7,651.9,133.4
+1741343006104,,,,Init Trial,"(0.0, 0.0)",0,0,621.7,108.7,0.0,0.0
+1741343006104,YellowPurpleFlowers,Appear,Distractor,,"(657.2, 265.7)",408,416,621.7,108.7,651.9,131.2
+1741343062595,Mushroom,Disappear,Target,,"(1286.9, 206.6)",358,311,1132.2,101.2,1267.4,194.3
+1741343088744,YellowPurpleFlowers,Disappear,Distractor,,"(657.2, 265.7)",408,416,610.1,204.5,651.9,131.2
+1741343097328,,,,End Trial,"(0.0, 0.0)",0,0,1333.4,146.6,0.0,0.0
+1741343097328,Answer,Correct,Distractor not clicked,,"(0.0, 0.0)",0,0,1333.4,146.6,0.0,0.0
+1741343097827,,,,Init Trial,"(0.0, 0.0)",0,0,1094.2,194.2,0.0,0.0
+1741343097828,Mushroom,Appear,Target,,"(1286.9, 206.6)",358,311,1094.2,194.2,1267.4,194.3
+1741343098243,Mouse Click,Correct,Target clicked,,"(982.0, 164.0)",0,0,1271.3,187.8,982.0,164.0
+1741343147762,BlueFlowers,Disappear,Distractor,,"(1292.4, 244.7)",495,416,1148.6,238.6,1266.9,130.0

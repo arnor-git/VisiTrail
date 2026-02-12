@@ -1,0 +1,4 @@
+Timestamp,ObjectName,ObjectState,Label,Aux Message,AOI_Origin,AOI_Width,AOI_Height,EyeTracker-x,EyeTracker-y,obj_x,obj_y
+1742895622711,,,,Game Starts,"(0.0, 0.0)",0,0,0.0,0.0,0.0,0.0
+1742895623557,Mouse Click,Neutral,,,"(1826.0, 965.0)",0,0,0.0,0.0,1826.0,965.0
+1742895623579,,,,Game Paused,"(0.0, 0.0)",0,0,0.0,0.0,0.0,0.0
