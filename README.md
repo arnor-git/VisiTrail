@@ -1,7 +1,13 @@
 # Time-Series-Analysis-of-Eye-Tracking-Data
 
 #How to run the code
-- The code is directly runnable in Colab and Kaggle. No need for any special Python version or other library.
+- The code is directly runnable in Pycharm. 
+  1. Download this GitHub project and open it in Pycharm.
+  2. Next, install Python 3.12.6 and then run the follwoing commnad Pycarhm Terminal: "pip install -r requirements.txt"
+  3. Next, there are two files: one for one_student_analysis and the second for analysis_on_all_students.
+  4. Both files have the dataset available already in the corresponding folders.
+  5. Next, fixed the path to the dataste as per your PC.
+  6. Then Hit Run button.
 
 
 Acknowledgement
