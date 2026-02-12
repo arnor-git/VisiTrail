@@ -1,4 +1,8 @@
 # Time-Series-Analysis-of-Eye-Tracking-Data
 
+#How to run the code
+- The code is directly runnable in Colab and Kaggle. No need for any special Python version or other library.
+
+
 Acknowledgement
 The acquisition of this data and the research leading to these results have been carried out in the "EMPOWER. Design and evaluation of technological support tools to empower stakeholders in digital education" project, which has received funding from the European Union's Horizon Europe programme, under grant agreement No 101060918. Views and opinions expressed are, however, those of the author(s) only and do not necessarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them.
